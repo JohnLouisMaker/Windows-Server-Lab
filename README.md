@@ -64,6 +64,6 @@ Implementação de um ambiente Windows Server voltado para estudos e simulação
 ## Screenshots
 
 ![Estrutura OUs](./imgs/EstruturaOU.png)
-![Configuração Do DHCP](./imgs/ConfigDHCP.png/)
-
+![Configuração Do DHCP](./imgs/ConfigDHCP.png)
+![Adicionado Ao Domínio](./imgs/AdicionadoDominio.png)
 
